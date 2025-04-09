@@ -2,7 +2,9 @@
 
 Welcome to the official GitHub repository of the **Adaptive Gravity Simulation** – an AI-driven, interactive educational tool designed for immersive science learning. This simulation helps students visually understand the effect of **mass** and **height** on **falling objects under gravity**, with personalized audio feedback and real-time analytics.
 
-![image](https://github.com/user-attachments/assets/ba148783-ef8d-42c2-a069-b3c34a536470)
+## Mockup
+![Mockup Adaptive Gravity Simulation](https://github.com/user-attachments/assets/368b4f78-c2c5-448d-a26b-793cebd3059a)
+
 
 
 ## 🧠 Key Features
@@ -15,20 +17,7 @@ Welcome to the official GitHub repository of the **Adaptive Gravity Simulation**
 - 🔁 Reset button to restart the simulation easily
 - 📱 Fully **WebGL compatible** and accessible on **mobile devices**
 - 🌍 Hosted on GitHub Pages for global access
-
-## 🚀 Live Demo
-
-👉 [Click here to try it online](https://ezrayalley.github.io/Adaptive-Simulation-For-Science-Education/)  
-📱 *Best viewed in landscape on mobile*
-
-## 🛠️ Technologies Used
-
-- **Unity 2022** (WebGL Build)
-- **C# Scripting**
-- **Custom UI Elements (Sliders, Buttons, Audio)**
-- **GitHub Pages** for hosting
-
-
+  
 ## 🧩 How to Use
 
 1. Open the simulation.
@@ -37,6 +26,22 @@ Welcome to the official GitHub repository of the **Adaptive Gravity Simulation**
 4. Click **Start** to begin the simulation.
 5. View the fall time of each object.
 6. Use **Reset** to try again.
+--
+
+## 🚀 Live Demo
+
+👉 [Click here to try it online](https://ezrayalley.github.io/Adaptive-Simulation-For-Science-Education/)  
+📱 *Best viewed in landscape on mobile*
+![image](https://github.com/user-attachments/assets/ba148783-ef8d-42c2-a069-b3c34a536470)
+
+## 🛠️ Technologies Used
+
+- **Unity 2022** (WebGL Build)
+- **C# Scripting**
+- **Custom UI Elements (Sliders, Buttons, Audio)**
+- **GitHub Pages** for hosting
+
+---
 
 ## 🧠 Educational Impact
 
