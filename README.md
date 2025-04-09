@@ -39,7 +39,8 @@ Welcome to the official GitHub repository of the **Adaptive Gravity Simulation**
 6. Use **Reset** to try again.
 --
 ## Mockup
-![mockup Gravity Simulation](https://github.com/user-attachments/assets/8cb9a968-fd5f-442b-b245-6f5630d33128)
+![Mockup Adaptive Gravity Simulation](https://github.com/user-attachments/assets/368b4f78-c2c5-448d-a26b-793cebd3059a)
+
 --
 
 ## 🧠 Educational Impact
