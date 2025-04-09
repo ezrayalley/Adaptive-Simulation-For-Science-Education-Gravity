@@ -37,6 +37,10 @@ Welcome to the official GitHub repository of the **Adaptive Gravity Simulation**
 4. Click **Start** to begin the simulation.
 5. View the fall time of each object.
 6. Use **Reset** to try again.
+--
+## Mockup
+![mockup Gravity Simulation](https://github.com/user-attachments/assets/8cb9a968-fd5f-442b-b245-6f5630d33128)
+--
 
 ## 🧠 Educational Impact
 
