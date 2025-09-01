@@ -30,7 +30,7 @@ Welcome to the official GitHub repository of the **Adaptive Gravity Simulation**
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it online](https://ezrayalley.github.io/Adaptive-Simulation-For-Science-Education/)  
+👉 [Click here to try it online](https://ezrayalley.github.io/Adaptive-Simulation-For-Science-Education-Gravity/)  
 📱 *Best viewed in landscape on mobile*
 ![image](https://github.com/user-attachments/assets/ba148783-ef8d-42c2-a069-b3c34a536470)
 
